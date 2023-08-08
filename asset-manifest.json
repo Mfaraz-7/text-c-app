@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/text-c-app/static/css/main.0ed9c68d.css",
+    "main.js": "/text-c-app/static/js/main.31422263.js",
+    "index.html": "/text-c-app/index.html",
+    "main.0ed9c68d.css.map": "/text-c-app/static/css/main.0ed9c68d.css.map",
+    "main.31422263.js.map": "/text-c-app/static/js/main.31422263.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ed9c68d.css",
+    "static/js/main.31422263.js"
+  ]
+}
